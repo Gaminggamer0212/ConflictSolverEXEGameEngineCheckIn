@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UI Navigation Enhanced",
+	"Description": "Provides a blueprint accessible FNavigationConfig for overriding UI Navigation. Includes additional functions for simulating UI Navigation from blueprint.",
+	"Category": "UI",
+	"CreatedBy": "Krileon",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UINavigationEnhanced",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
